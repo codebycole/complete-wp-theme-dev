@@ -10,3 +10,8 @@
   Text Domain: customtheme
   Screenshot image by: https://unsplash.com/@sarahdorweiler
   */
+
+.jumbotron {
+  background-color: green;
+  color: #ffffff;
+  text-align: center;
